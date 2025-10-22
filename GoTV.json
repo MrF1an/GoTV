@@ -26,7 +26,7 @@
     ],
     "wecima": { 
       "base_url": "https://wecima.click/",
-      "movie_url": "https://wecima.click/category/arabic-movies",
+      "movie_url": "https://cdn196.weecimaa.sbs/category/أفلام/افلام-عربي-arabic-movies/",
       "series_url": "https://wecima.click/category/arabic-series"
     }
   },
