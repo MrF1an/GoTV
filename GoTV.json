@@ -6,21 +6,25 @@
       {
         "id": 1,
         "title_ar": "وي سيما",
+        "key": "wecima", // 💡 المفتاح الذي يربط بالقسم "wecima" في الأسفل
         "endpoint": "/action-movies"
       },
       {
         "id": 2,
         "title_ar": "عرب سيد",
+        "key": "arabSeed", // 💡 المفتاح الذي يربط بالقسم "arabSeed" في الأسفل
         "endpoint": "/ramadan-series"
       },
       {
         "id": 3,
         "title_ar": "فاصل إعلاني",
+        "key": "fasel", // 💡 مفتاح جديد
         "endpoint": "/kids-shows"
       },
       {
         "id": 4,
         "title_ar": "فنون",
+        "key": "funoon", // 💡 مفتاح جديد
         "endpoint": "/documentaries"
       }
     ],
@@ -29,7 +33,7 @@
       "movie_url": "https://wecima.click/category/arabic-movies",
       "series_url": "https://wecima.click/category/arabic-series"
     },
-     "arabSeed": { 
+    "arabSeed": { 
       "base_url": "https://a.asd.homes/main0/",
       "movie_url": "https://a.asd.homes/category/arabic-movies-6/",
       "series_url": "https://a.asd.homes/category/arabic-series-3/"
