@@ -26,8 +26,8 @@
     ],
     "wecima": { 
       "base_url": "https://wecima.click/",
-      "movie_url": "https://wecima.click/category/arabic-movies1",
-      "series_url": "https://wecima.click/category/arabic-series1"
+      "movie_url": "https://wecima.click/category/arabic-movies",
+      "series_url": "https://wecima.click/category/arabic-series"
     }
   },
   "last_updated": "2025-10-22"
