@@ -6,25 +6,25 @@
       {
         "id": 1,
         "title_ar": "وي سيما",
-        "key": "wecima", // 💡 المفتاح الذي يربط بالقسم "wecima" في الأسفل
+        "key": "wecima",
         "endpoint": "/action-movies"
       },
       {
         "id": 2,
         "title_ar": "عرب سيد",
-        "key": "arabSeed", // 💡 المفتاح الذي يربط بالقسم "arabSeed" في الأسفل
+        "key": "arabSeed",
         "endpoint": "/ramadan-series"
       },
       {
         "id": 3,
         "title_ar": "فاصل إعلاني",
-        "key": "fasel", // 💡 مفتاح جديد
+        "key": "fasel",
         "endpoint": "/kids-shows"
       },
       {
         "id": 4,
         "title_ar": "فنون",
-        "key": "funoon", // 💡 مفتاح جديد
+        "key": "funoon",
         "endpoint": "/documentaries"
       }
     ],
