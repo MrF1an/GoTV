@@ -5,22 +5,22 @@
     "GoTV": [
       {
         "id": 1,
-        "title_ar": "أفلام الأكشن",
+        "title_ar": "وي سيما",
         "endpoint": "/action-movies"
       },
       {
         "id": 2,
-        "title_ar": "مسلسلات رمضان",
+        "title_ar": "عرب سيد",
         "endpoint": "/ramadan-series"
       },
       {
         "id": 3,
-        "title_ar": "برامج أطفال",
+        "title_ar": "فاصل إعلاني",
         "endpoint": "/kids-shows"
       },
       {
         "id": 4,
-        "title_ar": "أفلام وثائقية",
+        "title_ar": "فنون",
         "endpoint": "/documentaries"
       }
     ],
@@ -28,6 +28,11 @@
       "base_url": "https://wecima.click/",
       "movie_url": "https://wecima.click/category/arabic-movies",
       "series_url": "https://wecima.click/category/arabic-series"
+    }
+     "arabSeed": { 
+      "base_url": "https://a.asd.homes/main0/",
+      "movie_url": "https://a.asd.homes/category/arabic-movies-6/",
+      "series_url": "https://a.asd.homes/category/arabic-series-3/"
     }
   },
   "last_updated": "2025-10-22"
