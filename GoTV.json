@@ -1,0 +1,29 @@
+{
+  "status": "success",
+  "version": "1.0",
+  "data": {
+    "GoTV": [
+      {
+        "id": 1,
+        "title_ar": "أفلام الأكشن",
+        "endpoint": "/action-movies"
+      },
+      {
+        "id": 2,
+        "title_ar": "مسلسلات رمضان",
+        "endpoint": "/ramadan-series"
+      },
+      {
+        "id": 3,
+        "title_ar": "برامج أطفال",
+        "endpoint": "/kids-shows"
+      },
+      {
+        "id": 4,
+        "title_ar": "أفلام وثائقية",
+        "endpoint": "/documentaries"
+      }
+    ]
+  },
+  "last_updated": "2025-10-22"
+}
