@@ -26,7 +26,14 @@
         "title_ar": "فنون",
         "key": "funoon",
         "endpoint": "/documentaries"
+      },
+      {
+        "id": 5,
+        "title_ar": "سيما ناو",
+        "key": "cimanow",
+        "endpoint": "/documentaries"
       }
+      
     ],
     "wecima": { 
       "base_url": "https://wecima.click/",
@@ -39,6 +46,11 @@
       "series_url": "https://a.asd.homes/category/arabic-series-3/"
     },
       "cima4u": { 
+      "base_url": "https://n.cima4u.shop/",
+      "movie_url": "https://n.cima4u.shop/category/arabic-movies-3/",
+      "series_url": "https://n.cima4u.shop/latest-series/"
+    },
+    "cimanow": { 
       "base_url": "https://n.cima4u.shop/",
       "movie_url": "https://n.cima4u.shop/category/arabic-movies-3/",
       "series_url": "https://n.cima4u.shop/latest-series/"
