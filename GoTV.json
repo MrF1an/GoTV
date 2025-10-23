@@ -17,8 +17,8 @@
       },
       {
         "id": 3,
-        "title_ar": "فاصل إعلاني",
-        "key": "fasel",
+        "title_ar": "سيما فور يو",
+        "key": "cima4u",
         "endpoint": "/kids-shows"
       },
       {
@@ -37,7 +37,12 @@
       "base_url": "https://a.asd.homes/main0/",
       "movie_url": "https://a.asd.homes/category/arabic-movies-6/",
       "series_url": "https://a.asd.homes/category/arabic-series-3/"
-    }
+    },
+      "cima4u": { 
+      "base_url": "https://n.cima4u.shop/",
+      "movie_url": "https://n.cima4u.shop/category/arabic-movies-3/",
+      "series_url": "https://n.cima4u.shop/latest-series/"
+    },
   },
   "last_updated": "2025-10-22"
 }
