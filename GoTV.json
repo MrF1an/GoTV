@@ -27,20 +27,26 @@
         "key": "cima4u",
         "endpoint": "/kids-shows"
       },
-      {
+            {
         "id": 5,
+        "title_ar": "سيما ليك (آسيوي)",
+        "key": "cimaleek",
+        "endpoint": "/documentaries"
+      },
+      {
+        "id": 6,
         "title_ar": "سيما ناو",
         "key": "cimanow",
         "endpoint": "/documentaries"
       },
        {
-        "id": 6,
+        "id": 7,
         "title_ar": "عرب سيد",
         "key": "arabSeed",
         "endpoint": "/ramadan-series"
       },
       {
-        "id": 7,
+        "id": 8,
         "title_ar": "TEST",
         "key": "test",
         "endpoint": "/documentaries"
@@ -66,6 +72,11 @@
       "base_url": "https://n.cima4u.shop/",
       "movie_url": "https://n.cima4u.shop/category/arabic-movies-3/",
       "series_url": "https://n.cima4u.shop/latest-series/"
+    },
+    "cimaleek": { 
+      "base_url": "https://m.cimaleek.to/",
+      "movie_url": "https://m.cimaleek.to/category/asian-aflam/",
+      "series_url": "https://m.cimaleek.to/category/asian-series/"
     },
      "cimanow": { 
       "base_url": "https://n.cima4u.shop/",
