@@ -5,36 +5,47 @@
     "GoTV": [
       {
         "id": 1,
+        "title_ar": "أكوام",
+        "key": "akwam",
+        "endpoint": "/action-movies"
+      }, 
+      {
+        "id": 2,
         "title_ar": "وي سيما",
         "key": "wecima",
         "endpoint": "/action-movies"
       },   
       {
-        "id": 2,
+        "id": 3,
         "title_ar": "سيما فور يو",
         "key": "cima4u",
         "endpoint": "/kids-shows"
       },      
       {
-        "id": 3,
+        "id": 4,
         "title_ar": "سيما ناو",
         "key": "cimanow",
         "endpoint": "/documentaries"
       },
        {
-        "id": 4,
+        "id": 5,
         "title_ar": "عرب سيد",
         "key": "arabSeed",
         "endpoint": "/ramadan-series"
       },
       {
-        "id": 5,
+        "id": 6,
         "title_ar": "TEST",
         "key": "test",
         "endpoint": "/documentaries"
       }
       
     ],
+    "akwam": { 
+      "base_url": "https://ak.sv/main",
+      "movie_url": "https://ak.sv/movies?section=0&category=0&rating=0&year=0&language=1&formats=0&quality=0",
+      "series_url": "https://ak.sv/series?section=0&category=0&rating=0&year=0&language=1&formats=0&quality=0"
+    },
     "wecima": { 
       "base_url": "https://wecima.click/",
       "movie_url": "https://wecima.click/category/arabic-movies",
