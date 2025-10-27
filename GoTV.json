@@ -79,9 +79,9 @@
       "series_url": "https://m.cimaleek.to/category/asian-series/"
     },
      "cimanow": { 
-      "base_url": "https://n.cima4u.shop/",
-      "movie_url": "https://n.cima4u.shop/category/arabic-movies-3/",
-      "series_url": "https://n.cima4u.shop/latest-series/"
+      "base_url": "https://cimanow.cc/home/",
+      "movie_url": "https://cimanow.cc/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9/",
+      "series_url": "https://cimanow.cc/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9/"
     },
     "arabSeed": { 
       "base_url": "https://a.asd.homes/main0/",
@@ -89,9 +89,9 @@
       "series_url": "https://a.asd.homes/category/arabic-series-3/"
     },
     "test": { 
-      "base_url": "https://m.cimaleek.to/b5/",
-      "movie_url": "https://m.cimaleek.to/category/asian-aflam/",
-      "series_url": "https://m.cimaleek.to/category/asian-series/"
+      "base_url": "https://cimanow.cc/home/",
+      "movie_url": "https://cimanow.cc/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9/",
+      "series_url": "https://cimanow.cc/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9/"
     }
   },
   "last_updated": "2025-10-27"
