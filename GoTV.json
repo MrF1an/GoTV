@@ -78,9 +78,9 @@
       "series_url": "https://a.asd.homes/category/arabic-series-3/"
     },
     "test": { 
-      "base_url": "https://ciimaclub.club/",
-      "movie_url": "https://ciimaclub.club/",
-      "series_url": "https://ciimaclub.club/"
+      "base_url": "https://cima.wecima.show/old-series/",
+      "movie_url": "https://cima.wecima.show/old-series/",
+      "series_url": "https://cima.wecima.show/old-series/"
     }
   },
   "last_updated": "2025-10-27"
