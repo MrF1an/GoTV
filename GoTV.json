@@ -78,7 +78,7 @@
       "series_url": "https://a.asd.homes/category/arabic-series-3/"
     },
     "test": { 
-      "base_url": "https://cima.wecima.show/old-series/",
+      "base_url": "https://a.asd.homes/main0/",
       "movie_url": "https://cima.wecima.show/old-series/",
       "series_url": "https://a.asd.homes/main0/"
     }
