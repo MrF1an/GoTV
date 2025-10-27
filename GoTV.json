@@ -2,39 +2,45 @@
   "status": "success",
   "version": "1.0",
   "data": {
-    "GoTV": [
+    "GoTV": [     
       {
         "id": 1,
         "title_ar": "أكوام",
         "key": "akwam",
         "endpoint": "/action-movies"
-      }, 
-      {
+      },
+       {
         "id": 2,
+        "title_ar": "سيما كلوب",
+        "key": "ciimaclub",
+        "endpoint": "/action-movies"
+      },
+      {
+        "id": 3,
         "title_ar": "وي سيما",
         "key": "wecima",
         "endpoint": "/action-movies"
-      },   
+      },
       {
-        "id": 3,
+        "id": 4,
         "title_ar": "سيما فور يو",
         "key": "cima4u",
         "endpoint": "/kids-shows"
-      },      
+      },
       {
-        "id": 4,
+        "id": 5,
         "title_ar": "سيما ناو",
         "key": "cimanow",
         "endpoint": "/documentaries"
       },
        {
-        "id": 5,
+        "id": 6,
         "title_ar": "عرب سيد",
         "key": "arabSeed",
         "endpoint": "/ramadan-series"
       },
       {
-        "id": 6,
+        "id": 7,
         "title_ar": "TEST",
         "key": "test",
         "endpoint": "/documentaries"
@@ -45,6 +51,11 @@
       "base_url": "https://ak.sv/main",
       "movie_url": "https://ak.sv/movies?section=0&category=0&rating=0&year=0&language=1&formats=0&quality=0",
       "series_url": "https://ak.sv/series?section=0&category=0&rating=0&year=0&language=1&formats=0&quality=0"
+    },
+    "ciimaclub": { 
+      "base_url": "https://ciimaclub.club/",
+      "movie_url": "https://ciimaclub.club/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%b9%d8%b1%d8%a8%d9%8a/",
+      "series_url": "https://ciimaclub.club/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%b9%d8%b1%d8%a8%d9%8a/"
     },
     "wecima": { 
       "base_url": "https://wecima.click/",
