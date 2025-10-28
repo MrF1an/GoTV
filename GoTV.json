@@ -41,8 +41,8 @@
       },
        {
         "id": 7,
-        "title_ar": "عرب سيد",
-        "key": "arabSeed",
+        "title_ar": " (آسيوي)فاصل إعلاني",
+        "key": "faselhd",
         "endpoint": "/ramadan-series"
       },
       {
@@ -83,10 +83,10 @@
       "movie_url": "https://cimanow.cc/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9/",
       "series_url": "https://cimanow.cc/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9/"
     },
-    "arabSeed": { 
-      "base_url": "https://a.asd.homes/main0/",
-      "movie_url": "https://a.asd.homes/category/arabic-movies-6/",
-      "series_url": "https://a.asd.homes/category/arabic-series-3/"
+    "faselhd": { 
+      "base_url": "https://www.faselhds.cam/",
+      "movie_url": "https://www.faselhds.cam/asian-movies",
+      "series_url": "https://www.faselhds.cam/asian-series"
     },
     "test": { 
       "base_url": "https://cimanow.cc/home/",
