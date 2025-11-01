@@ -15,29 +15,29 @@
         "key": "faselhd",
         "endpoint": "/ramadan-series"
       },
-       {
+            {
         "id": 3,
-        "title_ar": "سيما كلوب",
-        "key": "ciimaclub",
-        "endpoint": "/action-movies"
-      },
-      {
-        "id": 4,
         "title_ar": "وي سيما",
         "key": "wecima",
         "endpoint": "/action-movies"
       },
       {
-        "id": 5,
-        "title_ar": "سيما فور يو",
-        "key": "cima4u",
-        "endpoint": "/kids-shows"
-      },
-            {
-        "id": 6,
+        "id": 4,
         "title_ar": "سيما ليك (آسيوي)",
         "key": "cimaleek",
         "endpoint": "/documentaries"
+      },
+       {
+        "id": 5,
+        "title_ar": "سيما كلوب",
+        "key": "ciimaclub",
+        "endpoint": "/action-movies"
+      },
+      {
+        "id": 6,
+        "title_ar": "سيما فور يو",
+        "key": "cima4u",
+        "endpoint": "/kids-shows"
       },
       {
         "id": 7,
@@ -63,25 +63,25 @@
       "movie_url": "https://www.faselhds.cam/asian-movies",
       "series_url": "https://www.faselhds.cam/asian-series"
     },
-    "ciimaclub": { 
-      "base_url": "https://ciimaclub.club/",
-      "movie_url": "https://ciimaclub.club/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%b9%d8%b1%d8%a8%d9%8a/",
-      "series_url": "https://ciimaclub.club/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9/"
-    },
-    "wecima": { 
+     "wecima": { 
       "base_url": "https://wecima.click/",
       "movie_url": "https://wecima.click/category/arabic-movies",
       "series_url": "https://wecima.click/category/arabic-series"
     },
+     "cimaleek": { 
+      "base_url": "https://m.cimaleek.to/",
+      "movie_url": "https://m.cimaleek.to/category/asian-aflam/",
+      "series_url": "https://m.cimaleek.to/category/asian-series/"
+    },
+    "ciimaclub": { 
+      "base_url": "https://ciimaclub.club/",
+      "movie_url": "https://ciimaclub.club/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%b9%d8%b1%d8%a8%d9%8a/",
+      "series_url": "https://ciimaclub.club/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9/"
+    },   
      "cima4u": { 
       "base_url": "https://n.cima4u.shop/",
       "movie_url": "https://n.cima4u.shop/category/arabic-movies-3/",
       "series_url": "https://n.cima4u.shop/latest-series/"
-    },
-    "cimaleek": { 
-      "base_url": "https://m.cimaleek.to/",
-      "movie_url": "https://m.cimaleek.to/category/asian-aflam/",
-      "series_url": "https://m.cimaleek.to/category/asian-series/"
     },
      "cimanow": { 
       "base_url": "https://cimanow.cc/home/",
@@ -94,5 +94,5 @@
       "series_url": "https://cimanow.cc/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9/"
     }
   },
-  "last_updated": "2025-10-27"
+  "last_updated": "2025-11-1"
 }
