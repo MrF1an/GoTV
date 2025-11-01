@@ -9,41 +9,41 @@
         "key": "akwam",
         "endpoint": "/action-movies"
       },
-       {
+             {
         "id": 2,
+        "title_ar": "فاصل إعلاني (آسيوي)",
+        "key": "faselhd",
+        "endpoint": "/ramadan-series"
+      },
+       {
+        "id": 3,
         "title_ar": "سيما كلوب",
         "key": "ciimaclub",
         "endpoint": "/action-movies"
       },
       {
-        "id": 3,
+        "id": 4,
         "title_ar": "وي سيما",
         "key": "wecima",
         "endpoint": "/action-movies"
       },
       {
-        "id": 4,
+        "id": 5,
         "title_ar": "سيما فور يو",
         "key": "cima4u",
         "endpoint": "/kids-shows"
       },
             {
-        "id": 5,
+        "id": 6,
         "title_ar": "سيما ليك (آسيوي)",
         "key": "cimaleek",
         "endpoint": "/documentaries"
       },
       {
-        "id": 6,
+        "id": 7,
         "title_ar": "سيما ناو",
         "key": "cimanow",
         "endpoint": "/documentaries"
-      },
-       {
-        "id": 7,
-        "title_ar": " (آسيوي)فاصل إعلاني",
-        "key": "faselhd",
-        "endpoint": "/ramadan-series"
       },
       {
         "id": 8,
@@ -57,6 +57,11 @@
       "base_url": "https://ak.sv/main",
       "movie_url": "https://ak.sv/movies?section=0&category=0&rating=0&year=0&language=1&formats=0&quality=0",
       "series_url": "https://ak.sv/series?section=0&category=0&rating=0&year=0&language=1&formats=0&quality=0"
+    },
+    "faselhd": { 
+      "base_url": "https://www.faselhds.cam/",
+      "movie_url": "https://www.faselhds.cam/asian-movies",
+      "series_url": "https://www.faselhds.cam/asian-series"
     },
     "ciimaclub": { 
       "base_url": "https://ciimaclub.club/",
@@ -82,11 +87,6 @@
       "base_url": "https://cimanow.cc/home/",
       "movie_url": "https://cimanow.cc/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9/",
       "series_url": "https://cimanow.cc/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9/"
-    },
-    "faselhd": { 
-      "base_url": "https://www.faselhds.cam/",
-      "movie_url": "https://www.faselhds.cam/asian-movies",
-      "series_url": "https://www.faselhds.cam/asian-series"
     },
     "test": { 
       "base_url": "https://cimanow.cc/home/",
