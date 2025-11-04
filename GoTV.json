@@ -89,9 +89,9 @@
       "series_url": "https://cimanow.cc/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9/"
     },
     "test": { 
-      "base_url": "https://cimanow.cc/home/",
-      "movie_url": "https://cimanow.cc/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9/",
-      "series_url": "https://cimanow.cc/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9/"
+      "base_url": "https://shahed4u.day/",
+      "movie_url": "https://shahed4u.day/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%B9%D8%B1%D8%A8%D9%8A",
+      "series_url": "https://shahed4u.day/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%B9%D8%B1%D8%A8%D9%8A"
     }
   },
   "last_updated": "2025-11-1"
