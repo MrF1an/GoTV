@@ -70,9 +70,9 @@
       "series_url": "https://a.asd.homes/category/arabic-series-3/"
     },
     "faselhd": { 
-      "base_url": "https://www.faselhds.cam/",
-      "movie_url": "https://www.faselhds.cam/asian-movies",
-      "series_url": "https://www.faselhds.cam/asian-series"
+      "base_url": "https://www.faselhds.biz/",
+      "movie_url": "https://www.faselhds.biz/asian-movies",
+      "series_url": "https://www.faselhds.biz/asian-series"
     },
      "wecima": { 
       "base_url": "https://wecima.click/",
