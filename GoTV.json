@@ -75,9 +75,9 @@
       "series_url": "https://www.faselhds.biz/asian-series"
     },
      "wecima": { 
-      "base_url": "https://wecima.click/",
-      "movie_url": "https://wecima.click/category/arabic-movies",
-      "series_url": "https://wecima.click/category/arabic-series"
+      "base_url": "https://wecima.ac/",
+      "movie_url": "https://wecima.ac/category/arabic-movies",
+      "series_url": "https://wecima.ac/category/arabic-series"
     },
      "cimaleek": { 
       "base_url": "https://m.cimaleek.to/",
