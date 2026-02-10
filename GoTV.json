@@ -53,7 +53,7 @@
       },
       {
         "id": 9,
-        "title_ar": "أكوام رمضان",
+        "title_ar": "TEST",
         "key": "test",
         "endpoint": "/documentaries"
       }
@@ -62,7 +62,8 @@
     "akwam": { 
       "base_url": "https://ak.sv/main",
       "movie_url": "https://ak.sv/movies?section=0&category=0&rating=0&year=0&language=1&formats=0&quality=0",
-      "series_url": "https://ak.sv/series?section=0&category=0&rating=0&year=0&language=1&formats=0&quality=0"
+      "series_url": ""series_url": "https://ak.sv/series?section=0&category=87&rating=0&year=2025&language=1&formats=0&quality=0""
+      #"series_url": "https://ak.sv/series?section=0&category=0&rating=0&year=0&language=1&formats=0&quality=0"
     },
      "arabseed": { 
       "base_url": "https://a.asd.homes/main0/",
@@ -102,7 +103,7 @@
     "test": { 
       "base_url": "https://ak.sv/",
       "movie_url": "https://a.asd.homes/category/arabic-movies-6/",
-      "series_url": "https://ak.sv/series?section=0&category=87&rating=0&year=2026&language=1&formats=0&quality=0"
+      "series_url": "https://a.asd.homes/category/arabic-series-3/"
     }
   },
   "last_updated": "2025-11-1"
