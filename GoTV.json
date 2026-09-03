@@ -101,8 +101,8 @@
     },
     "test": { 
       "base_url": "https://ak.sv/",
-      "movie_url": "https://a.asd.homes/category/arabic-movies-6/",
-      "series_url": "https://a.asd.homes/category/arabic-series-3/"
+      "movie_url": "https://akwam.ss/movies?section=0&category=0&rating=0&year=0&language=8&formats=0&quality=0",
+      "series_url": "https://akwam.ss/series?section=31&category=0&rating=0&year=0&language=0&formats=0&quality=0"
     }
   },
   "last_updated": "2025-11-1"
