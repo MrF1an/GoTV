@@ -102,7 +102,7 @@
     "test": { 
       "base_url": "https://ak.sv/",
       "movie_url": "https://ak.sv/movies?section=0&category=0&rating=0&year=0&language=1&formats=0&quality=0",
-      "series_url": "https://akwam.ss/series?section=31&category=0&rating=0&year=0&language=0&formats=0&quality=0"
+      "series_url": "https://ak.sv/series?section=0&category=87&rating=0&year=2026&language=1&formats=0&quality=0"
     }
   },
   "last_updated": "2025-11-1"
